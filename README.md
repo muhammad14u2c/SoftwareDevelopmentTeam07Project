@@ -48,7 +48,7 @@ This is a web platform exclusive for San Francisco State University (SFSU) stude
 </h1>
 
 <h5>Server Implementation</h5>
-<img width="371" alt="codeshotvs" align="left" src="https://github.com/muhammad14u2c/SoftwareDevelopmentTeam07Project/assets/6218556/d1eae6ca-4685-4ced-b64e-728381f4c913">
+<img width="300" alt="codeshotvs" align="left" src="https://github.com/muhammad14u2c/SoftwareDevelopmentTeam07Project/assets/6218556/d1eae6ca-4685-4ced-b64e-728381f4c913">
 
 <h5>Sign Up and Post Validation</h5>
 
