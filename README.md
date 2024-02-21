@@ -56,7 +56,7 @@ This is a web platform exclusive for San Francisco State University (SFSU) stude
 
 <h5>Sign Up and Post Validation</h5>
 
-<img width="550" alt="twocodeshotvs" src="https://github.com/muhammad14u2c/SoftwareDevelopmentTeam07Project/assets/6218556/30103f08-6c19-4c03-90d4-baae0335e3af">
+<img width="450" alt="twocodeshotvs" src="https://github.com/muhammad14u2c/SoftwareDevelopmentTeam07Project/assets/6218556/30103f08-6c19-4c03-90d4-baae0335e3af">
 <br><br><br><br>
 
 <h4 align="center" style="bold" size="400"> The Site host a volume of user data fetched from the MySql database (inactive) and populated on the page. </h4>
