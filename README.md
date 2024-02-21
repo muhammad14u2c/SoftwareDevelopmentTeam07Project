@@ -20,7 +20,11 @@ This is a web platform exclusive for San Francisco State University (SFSU) stude
 
 
 <h5 align="center" style="bold" size="100">
-    $${\color{yellow}requirements: \space node,\space nodemon,\space VsCode \space \space prefferred, \space local \space port:1234 }$$ 
+    $${\color{yellow}requirements: \space node,\space nodemon,\space VsCode \space \space prefferred, \space express, \space express-handlebars \space local \space port:1234 }$$ 
+</h5>
+
+<h5 align="center" style="bold" size="100">
+    $${\color{white}languages: \space Javascript, \space handlebars, \space CSS}$$ 
 </h5>
 
 
