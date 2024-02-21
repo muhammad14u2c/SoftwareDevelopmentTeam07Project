@@ -67,9 +67,9 @@ This is a web platform exclusive for San Francisco State University (SFSU) stude
  
 
 
-<img width="400" alt="makepost1" src="https://github.com/muhammad14u2c/SoftwareDevelopmentTeam07Project/assets/6218556/d5d60f6e-09c5-4844-9be6-4072eec44c85">
-<img width="461" alt="login1" src="https://github.com/muhammad14u2c/SoftwareDevelopmentTeam07Project/assets/6218556/797069f3-ca3c-4b11-9fe2-5abe78b589e6">
-<img width="400" alt="search1" src="https://github.com/muhammad14u2c/SoftwareDevelopmentTeam07Project/assets/6218556/4fa7f54a-046f-4e61-96b3-0eb4efdc2ba4">
+<img width="300" alt="makepost1" src="https://github.com/muhammad14u2c/SoftwareDevelopmentTeam07Project/assets/6218556/d5d60f6e-09c5-4844-9be6-4072eec44c85">
+<img width="300" alt="login1" src="https://github.com/muhammad14u2c/SoftwareDevelopmentTeam07Project/assets/6218556/797069f3-ca3c-4b11-9fe2-5abe78b589e6">
+<img width="300" alt="search1" src="https://github.com/muhammad14u2c/SoftwareDevelopmentTeam07Project/assets/6218556/4fa7f54a-046f-4e61-96b3-0eb4efdc2ba4">
 
 
 
